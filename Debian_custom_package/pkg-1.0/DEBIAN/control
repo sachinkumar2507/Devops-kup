@@ -1,0 +1,10 @@
+Package: pkgmg
+Version: 1.0
+Section: custom
+Priority: optional
+Depends: g++
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: sachin
+Description: Print a message
